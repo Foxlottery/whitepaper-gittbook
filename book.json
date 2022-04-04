@@ -1,19 +1,5 @@
 {
     "title": "Foxlottery Whitepaper",
     "description": "Foxlottery is a fully decentralized lottery using crypto assets and smart contracts.",
-    "plugins": ["-sharing", "hide-published-with", "intopic-toc", "head-append"],
-    "pluginsConfig": {
-        "head-append": {
-            "code": [
-                "<!-- Global site tag (gtag.js) - Google Analytics -->",
-                "<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-KRK2CQLDPP\"></script>",
-                "<script>",
-                "window.dataLayer = window.dataLayer || [];",
-                "function gtag(){dataLayer.push(arguments);}",
-                "gtag('js', new Date());",
-                "gtag('config', 'G-KRK2CQLDPP');",
-                "</script>"
-            ]
-        }
-    }
+    "plugins": ["-sharing", "hide-published-with", "intopic-toc"]
 }
