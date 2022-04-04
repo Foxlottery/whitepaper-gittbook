@@ -1,0 +1,5 @@
+{
+    "title": "Foxlottery Whitepaper",
+    "description": "Foxlottery is a fully decentralized lottery using crypto assets and smart contracts.",
+    "plugins": ["-sharing", "hide-published-with", "intopic-toc"]
+}
