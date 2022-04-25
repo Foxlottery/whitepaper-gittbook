@@ -4,10 +4,13 @@
 
 # 概要
 FoxLotteryは暗号資産とスマートコントラクトを使用したブロックチェーン宝くじを提供できるSaaSです。
+
 世界中の自治体が宝くじをするときに、使用することを想定しています。
+
 宝くじの還元率や基準にするERC20トークン、宝くじのサイクルを設定して、すぐに宝くじを始めることができます。
 
 ユーザーから収集したERC20トークンをランダムな当せん者に分配します。
+
 当せん者の決定はChainlink VRFを使い、ブロックチェーン上で乱数を生成します。
 https://docs.chain.link/docs/chainlink-vrf/
 
@@ -47,20 +50,26 @@ https://docs.chain.link/docs/chainlink-vrf/
 | ログイン方法 | 仮想通貨ウォレット(metamaskなど) | メールアドレス、電話番号 |
 
 # 宝くじ参加者の使い方
-取引所やDeFiでERC20トークンを入手する
-宝くじのサイトにアクセスして、metamaskなどのウォレットサービスでログインして、チケットを購入する
+取引所やDeFiでERC20トークンを入手する。
+
+宝くじのサイトにアクセスして、metamaskなどのウォレットサービスでログインして、チケットを購入する。
+
 チケットを購入したら、どれくらいの確率で、当せんするのか表示されます。
+
 当せん日になったらランダムで当せん者が選ばれて、当せん者に自動で送金が行われます。
+
 投票によって決まったチャリティ活動を使う団体に送金が行われます。
 
 # 市場規模
 ## 宝くじ
 日本: 7,866億円 2018年度
+
 引用元: https://www.soumu.go.jp/main_content/000583736.pdf
 
 世界: 2000億ドル
 
 世界の宝くじの市場規模は2020年から2025年まで、194.14億米ドル増加する。
+
 引用元: https://www.prnewswire.com/news-releases/lottery-market-size-to-grow-by-usd-194-14-bn--38-of-the-growth-from-apac--17-000-technavio-reports-301501174.html
 
 ## 仮想通貨
@@ -82,15 +91,18 @@ Solidityで開発しているので、Ethereum、Binance、Polygon, Avalancheな
 
 ## 当せんのランダム性を担保する仕組み
 Chainlink VRFを使用するとブロックチェーン上で検証可能なランダムな数字を取得できます。
+
 https://docs.chain.link/docs/chainlink-vrf/
 
 Chainlink VRFはPancakeSwapやPoolTogetherなどの利用実績があります。
 
 ### PancakeSwap
 バイナンススマートチェーン上のDeFiが運営している宝くじ
+
 https://pancakeswap.finance/lottery
 
 ### PoolTogether
 損失の出ない宝くじ、DeFiプールして得た利益をプールしたユーザーに抽選で分配する
+
 https://PoolTogether.com/
 

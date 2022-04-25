@@ -4,11 +4,15 @@
 
 # Overview
 FoxLottery is a SaaS that can provide blockchain lotteries using crypto assets and smart contracts.
+
 It is intended to be used by municipalities around the world when they conduct lotteries.
+
 You can set the lottery return rate, the ERC20 tokens to be used as criteria, and the lottery cycle to start the lottery immediately.
 
 The ERC20 tokens collected from users are distributed to random winners.
+
 The winner is determined using Chainlink VRF, which generates random numbers on the blockchain.
+
 https://docs.chain.link/docs/chainlink-vrf/
 
 # Vision
@@ -45,10 +49,14 @@ By making it open source, governments around the world can use the same lottery 
 | Login Methods | Crypto Currency Wallet (e.g. metamask) | Email Address, Phone Number |
 
 # How to use the lottery participants
-Obtain ERC20 tokens from an exchange or DeFi
-Access the lottery site, log in with a wallet service such as metamask, and purchase a ticket
+Obtain ERC20 tokens from an exchange or DeFi.
+
+Access the lottery site, log in with a wallet service such as metamask, and purchase a ticket.
+
 Once you have purchased your ticket, you will be shown how likely it is that you will win the lottery.
+
 On the day of the lottery, a winner will be chosen at random and the money will be automatically transferred to the winner.
+
 The money will be sent to the organization that will use the money to support the charitable activities determined by the votes.
 
 # Market Size
@@ -59,6 +67,7 @@ Cited from: https://www.soumu.go.jp/main_content/000583736.pdf
 World: $200 billion
 
 The global lottery market size will increase by US$19.414 billion from 2020 to 2025.
+
 Quote: https://www.prnewswire.com/news-releases/lottery-market-size-to-grow-by-usd-194-14-bn--38-of-the-growth-from-apac--17-000-technavio-reports-301501174.html
 
 ## Crypto Currency
