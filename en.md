@@ -35,8 +35,8 @@ By making it open source, governments around the world can use the same lottery 
 
 # Difference between online lotteries and decentralized lotteries
 
-| Distributed Lottery | Online Lottery |
-| ---- | ---- | ---- | ---- | ----
+|    | Distributed Lottery | Online Lottery |
+| ---- | ---- | ---- |
 | Source Code | Open | Closed |
 | ERC20 Token | Credit Card, Direct Deposit |
 | How to determine the winner | Random number generation on the blockchain | Random number generation on the server
@@ -45,9 +45,9 @@ By making it open source, governments around the world can use the same lottery 
 | Sales Channels | web, apps, metaverse | web
 | security cost | low | high
 | Security Cost | Low | High
-| DDoS Attack Resistance
-| Privacy | Yes | No
-| Login Methods | Virtual Currency Wallet (e.g. metamask) | Email Addresses, Phone Numbers |
+| DDoS Attack Resistance | Yes | No |
+| Privacy | Yes | No |
+| Login Methods | Crypto Currency Wallet (e.g. metamask) | Email Addresses, Phone Numbers |
 
 # use cases
 # pay to lottery
@@ -166,15 +166,15 @@ With blockchain technology, no cheating can occur, so in the long run, I believe
 # Examples of Lottery Fraud
 Serbia's state-run lottery company cheated
 
- ![https://www.independent.co.uk/news/world/europe/serbian-lottery-probe-after-winning-number-called-before-its-drawn-10430922.html](https://www.independent.co.uk/news/world/europe/serbian-lottery-probe-after-winning-number-called-before-its-drawn-10430922.html)
+[https://www.independent.co.uk/news/world/europe/serbian-lottery-probe-after-winning-number-called-before-its-drawn-10430922.html](https://www.independent.co.uk/news/world/europe/serbian-lottery-probe-after-winning-number-called-before-its-drawn-10430922.html)
 
 Public lottery proceeds misappropriated in China.
 
-![https://www.nikkei.com/article/DGKKASGM08H2T_Z20C15A7EAF000/](https://www.nikkei.com/article/DGKKASGM08H2T_Z20C15A7EAF000/)
+[https://www.nikkei.com/article/DGKKASGM08H2T_Z20C15A7EAF000/](https://www.nikkei.com/article/DGKKASGM08H2T_Z20C15A7EAF000/)
 
 Lottery operator's employees fraudulent
 
- ![https://www.desmoinesregister.com/story/news/investigations/2017/08/22/iowa-lottery-cheat-sentenced-25-years/566642001/](https://www.desmoinesregister.com/story/news/investigations/2017/08/22/iowa-lottery-cheat-sentenced-25-years/566642001/)
+[https://www.desmoinesregister.com/story/news/investigations/2017/08/22/iowa-lottery-cheat-sentenced-25-years/566642001/](https://www.desmoinesregister.com/story/news/investigations/2017/08/22/iowa-lottery-cheat-sentenced-25-years/566642001/)
 
 
 # web3 Lottery participant usage
@@ -238,4 +238,5 @@ https://PoolTogether.com/
 
 # Web3Lottery Architecture.
 
-! [](img/architecture.png)
+
+![](img/architecture.png)
